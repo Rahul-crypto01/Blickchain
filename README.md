@@ -1,2 +1,2 @@
-# Blickchain
+# Blockchain
 Code of the smaple
