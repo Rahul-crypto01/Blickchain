@@ -1,5 +1,5 @@
 # Blockchain
-# Applications and Smart Contract Samples
+# Smart Contract Samples
 
 ## Introduction
 
