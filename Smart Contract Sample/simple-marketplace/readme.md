@@ -50,5 +50,5 @@ available, a buyer making an offer, and the owner accepting the offer.
 Application Files
 -----------------
 
-[SimpleMarketplace.json](Smart Contract Sample/simple-marketplace/etherium/SimpleMarketplace.json
-[SimpleMarketplace.sol](Smart Contract Sample/simple-marketplace/etherium/SimpleMarketplace.json/SimpleMarketplace.sol)
+[SimpleMarketplace.json](Smart Contract Sample/simple-marketplace/etherium/SimpleMarketplace.json)
+[SimpleMarketplace.sol](Smart Contract Sample/simple-marketplace/etherium/SimpleMarketplace.json/)
