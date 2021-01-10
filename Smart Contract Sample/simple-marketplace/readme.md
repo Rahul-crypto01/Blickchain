@@ -51,4 +51,4 @@ Application Files
 -----------------
 
 [SimpleMarketplace.json](./etherium/SimpleMarketplace.json)
-[SimpleMarketplace.sol](Smart Contract Sample/simple-marketplace/etherium/SimpleMarketplace.json/)
+[SimpleMarketplace.sol](./etherium/SimpleMarketplace.json/)
