@@ -1,2 +1,2 @@
 # Blockchain
-Code of the smaple
+Code of the samples
