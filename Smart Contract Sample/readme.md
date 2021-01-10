@@ -5,6 +5,7 @@
 This section includes applications and smart contracts that can be deployed to Azure Blockchain Workbench in their current form or can be transformed to meet the needs of your scenario.
 
 ## Available Contracts
+[Smart Contract Sample](./simple-marketplace/readme.md)
 
 
 ## Deploying Applications
