@@ -1,4 +1,4 @@
-Simple Marketplace Sample Application for Azure Blockchain Workbench
+Simple Marketplace Sample Application for Azure Blockchain
 ====================================================================
 
 Overview 
